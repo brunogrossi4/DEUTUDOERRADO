@@ -1,6 +1,10 @@
 .titulo{
-
+    background-image: linear-gradient(rgb(81, 255, 0),red);
 background-color: blue;
 color: aquamarine;
+}
+
+.escola{
+    background-image: linear-gradient(blue,red);
 }
 
